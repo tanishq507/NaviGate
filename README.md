@@ -16,7 +16,7 @@ A Flutter-based cab booking application with optimized location search functiona
 1. **Clone the Repository**
    ```bash
    git clone <repository-url>
-   cd cab-booking-app
+   cd NaviGate
    ```
 
 2. **Environment Setup**
